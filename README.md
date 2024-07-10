@@ -6,7 +6,7 @@
 
 - Also known as ***masquerading***
 - 📝 Pretending to be someone else to learn needed information
-- A form of [identity theft](./social-engineering-overview.md#identity-theft)
+- A form of [identity theft][(./(https://www.terranovasecurity.com/solutions/security-awareness-training/what-is-identity-theft)]
 - E.g. as
   - target systems end user
   - technical support working with something that requires information to quickly build trust
