@@ -1,4 +1,4 @@
-# CEH Module 09 Social engineering in the cyber security
+# CEH Module 09 Social Engineering in the Cyber Security
 
 ## Human-based social engineering
 
