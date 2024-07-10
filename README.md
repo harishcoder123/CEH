@@ -17,7 +17,7 @@
 
 - 📝 Pretending to be someone who is authorized and/or requires that access.
 - Convincing personnel to grant access to sensitive information or protected systems
-- Masquerading is more passive compared to [impersonating](#impersonation).
+- Masquerading is more passive compared to [impersonating](https://www.geeksforgeeks.org/what-is-an-impersonation-attack/).
 
 ### Eavesdropping
 
