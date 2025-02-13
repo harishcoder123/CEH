@@ -219,4 +219,4 @@
 - **Anti-virus and anti-phishing defenses**
 - **Background check and proper termination process**
   - Insiders with a criminal background and terminated employees are easy targets for procuring information.
-  - # CEH-Notes Social Engineering and control the measure of the cyber attack 
+
